@@ -38,7 +38,7 @@ Note: If running on Unix-like systems, rename the file to remove spaces.
 
 📁 Files Included
 
-app (3).py: Main Streamlit application script
+app.py: Main Streamlit application script
 
 pipe.pkl: Trained machine learning model pipeline
 
